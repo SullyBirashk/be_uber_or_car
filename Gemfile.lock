@@ -207,6 +207,7 @@ GEM
     timeout (0.3.0)
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
+    vcr (6.1.0)
     web-console (4.2.0)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
@@ -237,6 +238,7 @@ DEPENDENCIES
   shoulda-matchers (~> 3.1)
   simplecov
   tzinfo-data
+  vcr
   web-console
 
 RUBY VERSION
